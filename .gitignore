@@ -1,0 +1,6 @@
+/node_modules
+
+Nodejs/api-testing/node_modules/
+Nodejs/node_modules/
+Nodejs/sequelize/node_modules/
+Nodejs/test/node_modules/
